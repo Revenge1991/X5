@@ -35,7 +35,7 @@ http://reflect-ccx.cablecast.tv/live-9/live/stream-1/live.m3u8
 https://wurlcheddar.global.transmit.live/hls/689ceac9301c34d3919676f3/v1/Cheddar/samsung_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="cnbc-usa" tvg-logo="https://en.wikipedia.org/wiki/CNBC#/media/File:CNBC_logo.svg" tvg-name="CNBC USA" group-title="Live",CNBC USA
 http://media2.xyz:8080/live/2052241227/NrzBDaGXk8sz/120016.ts
-#EXTINF:-1 tvg-id="CNBCX" tvg-logo="https://cdn.mos.cms.futurecdn.net/nf2EcKazcof5TuyxYHA3mF.webp" tvg-name="CNBCX" group-title="Live",CNBC USA
+#EXTINF:-1 tvg-id="CNBCX" tvg-logo="https://cdn.mos.cms.futurecdn.net/nf2EcKazcof5TuyxYHA3mF.webp" tvg-name="CNBCX" group-title="Live",CNBCX
 http://172.110.221.91:8080/live/2052071271A/YQFxXWAvBfxy/120016.ts
 #EXTINF:-1 tvg-id="CNBCWorld" tvg-logo="https://cdn.mos.cms.futurecdn.net/nf2EcKazcof5TuyxYHA3mF.webp" tvg-name="CNBC World" group-title="Live",CNBC World
 http://172.110.221.91:8080/live/2052071271A/YQFxXWAvBfxy/25724.ts
@@ -182,20 +182,6 @@ http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 https://d1a8aq6t30gkqj.cloudfront.net/v1/amc_overtime_1/samsungheadend_us/latest/main/hls/playlist_hd.m3u8
 #EXTINF:-1 tvg-id="Pac12Insider.us@SD" tvg-logo="https://i.imgur.com/736QREy.png" group-title="Sports",Pac 12 Insider (1080p)
 https://pac12-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="PBSKids.us@SD" tvg-logo="https://i.imgur.com/q4cUQKW.png" group-title="Education;Kids",PBS Kids (720p)
-https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
-#EXTINF:-1 tvg-id="PBSKidsAlaska.us@SD" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="Education;Kids",PBS Kids Alaska (1080p)
-https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst.m3u8
-#EXTINF:-1 tvg-id="PBSKidsEasternCentral.us@SD" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="Education;Kids",PBS Kids Eastern/Central (720p)
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:-1 tvg-id="PBSKidsHawaii.us@SD" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="Education;Kids",PBS Kids Hawaii (720p)
-https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8
-#EXTINF:-1 tvg-id="PBSKidsMountain.us@SD" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="Education;Kids",PBS Kids Mountain (1080p)
-https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst.m3u8
-#EXTINF:-1 tvg-id="PBSKidsPacific.us@SD" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="Education;Kids",PBS Kids Pacific (1080p)
-https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8
-#EXTINF:-1 tvg-id="PBSNature.us@SD" tvg-logo="https://i.imgur.com/Brry7cZ.png" group-title="Series",PBS Nature (1080p)
-https://d3mr43kyql7wgk.cloudfront.net/PBS_Nature.m3u8
 #EXTINF:-1 tvg-id="PGATour.us@SD" tvg-logo="https://i.imgur.com/J0TY9dG.png" group-title="Sports",PGA Tour (1080p)
 https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="RealWild.uk@SD" tvg-logo="https://i.imgur.com/T9HHmAO.png" group-title="Undefined",Real Wild (1080p)
@@ -263,12 +249,22 @@ https://vicetv-vicefast2-firetv.amagi.tv/playlist.m3u8
 https://vicetv-vicefast1-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="YahooFinance.us@SD" tvg-logo="https://i.imgur.com/43oHsHL.png" group-title="Business",Yahoo! Finance (1080p)
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="Cheers" tvg-name="Cheers" group-title="Series",Cheers
+http://172.110.221.91:8080/live/2052071271A/YQFxXWAvBfxy/134066.ts
+#EXTINF:-1 tvg-id="HIMYM" tvg-name="HIMYM" group-title="Series",HIMYM
+http://172.110.221.91:8080/live/2052071271A/YQFxXWAvBfxy/134161.ts
+#EXTINF:-1 tvg-id="Rick&Morty" tvg-name="Rick&Morty" group-title="Series",Rick&Morty
+http://172.110.221.91:8080/live/2052071271A/YQFxXWAvBfxy/134265.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="Series",24/7 THE SIMPSONS
 http://media2.xyz:8080/live/JHicks248/pd4ctABKjaEx/134356.ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="Series",24/7 THE SOPRANOS
 http://media2.xyz:8080/live/JHicks248/pd4ctABKjaEx/134358.ts
+#EXTINF:-1 tvg-id="Suits" tvg-name="Suits" group-title="Series",Suits
+http://172.110.221.91:8080/live/2052071271A/YQFxXWAvBfxy/134306.ts
+#EXTINF:-1 tvg-id="Batman" tvg-name="Batman" group-title="Series",Batman
+http://172.110.221.91:8080/live/2052071271A/YQFxXWAvBfxy/132824.ts
 #EXTINF:-1 tvg-id="PPV1" tvg-name="PPV1" group-title="Live",PPV1
-http://media2.xyz:8080/live/JHicks248/pd4ctABKjaEx/110755.ts
+http://172.110.221.91:8080/live/2052071271A/YQFxXWAvBfxy/131355.ts
 #EXTINF:-1 tvg-id="MX1" tvg-name="MX1" group-title="Live",MX1
 http://media2.xyz:8080/live/JHicks248/pd4ctABKjaEx/120111.ts
 #EXTINF:-1 tvg-id="MX2" tvg-name="MX2" group-title="Live",MX2 
