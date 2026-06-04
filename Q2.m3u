@@ -35,6 +35,10 @@ http://reflect-ccx.cablecast.tv/live-9/live/stream-1/live.m3u8
 https://wurlcheddar.global.transmit.live/hls/689ceac9301c34d3919676f3/v1/Cheddar/samsung_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="cnbc-usa" tvg-logo="https://en.wikipedia.org/wiki/CNBC#/media/File:CNBC_logo.svg" tvg-name="CNBC USA" group-title="Live",CNBC USA
 http://media2.xyz:8080/live/2052241227/NrzBDaGXk8sz/120016.ts
+#EXTINF:-1 tvg-id="CNBCX" tvg-logo="https://cdn.mos.cms.futurecdn.net/nf2EcKazcof5TuyxYHA3mF.webp" tvg-name="CNBCX" group-title="Live",CNBC USA
+http://172.110.221.91:8080/live/2052071271A/YQFxXWAvBfxy/120016.ts
+#EXTINF:-1 tvg-id="CNBCWorld" tvg-logo="https://cdn.mos.cms.futurecdn.net/nf2EcKazcof5TuyxYHA3mF.webp" tvg-name="CNBC World" group-title="Live",CNBC World
+http://172.110.221.91:8080/live/2052071271A/YQFxXWAvBfxy/25724.ts
 #EXTINF:-1 tvg-id="ComedyCentral.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="Comedy",Comedy Central (1080p)
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 #EXTINF:-1 tvg-id="Cops.us@SD" tvg-logo="https://i.imgur.com/J3XO6V2.png" group-title="Series",Cops (720p)
