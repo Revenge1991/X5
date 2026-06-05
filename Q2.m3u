@@ -10,8 +10,12 @@ https://tvpass.org/live/AEEast/hd
 http://41.205.93.154/ABC/index.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" group-title="News",ABC News Live 1 (720p)
 https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master_4000.m3u8
+#EXTINF:-1 tvg-id="ABC30F" tvg-name="ABC30F" group-title="Live",ABC30F
+http://172.110.221.91:8080/live/2052071271A/YQFxXWAvBfxy/64437.ts
 #EXTINF:-1 tvg-id="ABC30" tvg-name="ABC30" group-title="Live",ABC30
 http://media2.xyz:8080/live/2052241227/NrzBDaGXk8sz/64437.ts
+#EXTINF:-1 tvg-id="ABC7" tvg-name="ABC7" group-title="Live",ABC7
+http://172.110.221.91:8080/live/2052071271A/YQFxXWAvBfxy/64455.ts
 #EXTINF:-1 tvg-id="ACCDigitalNetwork.us@SD" tvg-logo="https://i.imgur.com/V6Kaqha.png" group-title="Sports",ACCDN (1080p)
 https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Ameritrade.us@SD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CZKwin9mL.png" group-title="Business",Ameritrade (1080p) [Not 24/7]
@@ -264,7 +268,7 @@ http://172.110.221.91:8080/live/2052071271A/YQFxXWAvBfxy/134306.ts
 #EXTINF:-1 tvg-id="Batman" tvg-name="Batman" group-title="Series",Batman
 http://172.110.221.91:8080/live/2052071271A/YQFxXWAvBfxy/132824.ts
 #EXTINF:-1 tvg-id="PPV1" tvg-name="PPV1" group-title="Live",PPV1
-http://172.110.221.91:8080/live/2052071271A/YQFxXWAvBfxy/131355.ts
+http://172.110.221.91:8080/live/2052071271A/YQFxXWAvBfxy/131345.ts
 #EXTINF:-1 tvg-id="MX1" tvg-name="MX1" group-title="Live",MX1
 http://media2.xyz:8080/live/JHicks248/pd4ctABKjaEx/120111.ts
 #EXTINF:-1 tvg-id="MX2" tvg-name="MX2" group-title="Live",MX2 
