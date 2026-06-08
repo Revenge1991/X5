@@ -72,13 +72,13 @@ https://cineverse-entrepreneurtv-entrepreneurtv-1-us.ono.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="espn" tvg-name="ESPN" group-title="Live",ESPN
 http://31.43.191.125:8080/live/VIP011311757744250643/8456e0e08c8a/155107.ts
 #EXTINF:-1 tvg-id="espn-deportes" tvg-name="ESPN Deportes" group-title="Live",ESPN Deportes
-http://media2.xyz:8080/live/2052433498/undFh23drbdS/47478.ts
+http://172.110.221.91:8080/live/2052439240/SE34z6pvh6/47478.ts
 #EXTINF:-1 tvg-id="espn-news" tvg-name="ESPN News" group-title="Live",ESPN News
 http://31.43.191.125:8080/live/VIP0113172679126129/51732389530751/155109.ts
 #EXTINF:-1 tvg-id="espn-u" tvg-name="ESPN U" group-title="Live",ESPN U
 http://31.43.191.125:8080/live/VIP0113172679126129/51732389530751/155110.ts
 #EXTINF:-1 tvg-id="espn2" tvg-name="ESPN2" group-title="Live",ESPN2
-http://31.43.191.125:8080/live/VIP0113172679126129/51732389530751/155108.ts
+http://172.110.221.91:8080/live/2052439240/SE34z6pvh6/9568.ts
 #EXTINF:-1 tvg-id="espn+" tvg-name="ESPN+" group-title="Live",ESPN+
 http://172.110.221.91:8080/live/2052071271A/YQFxXWAvBfxy/131581.ts
 #EXTINF:-1 tvg-id="FanDuelTV.us@SD" tvg-logo="https://i.imgur.com/YPHrFU0.png" group-title="Sports",FanDuel TV (720p)
@@ -235,15 +235,15 @@ https://tvpass.org/live/TravelChannelEast/sd
 #EXTINF:-1 tvg-id="trutv-usa-eastern" tvg-name="truTV USA Eastern" group-title="Live",truTV USA Eastern
 https://tvpass.org/live/truTVEast/sd
 #EXTINF:-1 tvg-id="tsn1" tvg-name="TSN1" group-title="Live",TSN1
-http://185.80.197.39/live/bfff8ff93a/84471b5f27/2077049.ts
+http://172.110.221.91:8080/live/2052439240/SE34z6pvh6/67052.ts
 #EXTINF:-1 tvg-id="tsn2" tvg-name="TSN2" group-title="Live",TSN2
-http://media2.xyz:8080/live/JHicks248/pd4ctABKjaEx/67050.ts
+http://172.110.221.91:8080/live/2052439240/SE34z6pvh6/67050.ts
 #EXTINF:-1 tvg-id="tsn3" tvg-name="TSN3" group-title="Live",TSN3
-http://media2.xyz:8080/live/JHicks248/pd4ctABKjaEx/67048.ts
+http://172.110.221.91:8080/live/2052439240/SE34z6pvh6/67048.ts
 #EXTINF:-1 tvg-id="tsn4" tvg-name="TSN4" group-title="Live",TSN4
-http://media2.xyz:8080/live/JHicks248/pd4ctABKjaEx/67046.ts
+http://172.110.221.91:8080/live/2052439240/SE34z6pvh6/67046.ts
 #EXTINF:-1 tvg-id="tsn5" tvg-name="TSN5" group-title="Live",TSN5
-http://media2.xyz:8080/live/JHicks248/pd4ctABKjaEx/67044.ts
+http://172.110.221.91:8080/live/2052439240/SE34z6pvh6/67044.ts
 #EXTINF:-1 tvg-id="TUDN.us@SD" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Undefined",TUDN (1080p)
 http://meilleuriptv8k.xyz/live/2c0daa29e1/dc00b799276e/720715.ts
 #EXTINF:-1 tvg-id="UnsolvedMysteries.us@US" tvg-logo="https://i.imgur.com/De3khrX.png" group-title="Series",Unsolved Mysteries (720p)
