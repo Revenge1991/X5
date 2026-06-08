@@ -74,11 +74,11 @@ http://31.43.191.125:8080/live/VIP011311757744250643/8456e0e08c8a/155107.ts
 #EXTINF:-1 tvg-id="espn-deportes" tvg-name="ESPN Deportes" group-title="Live",ESPN Deportes
 http://media2.xyz:8080/live/2052433498/undFh23drbdS/47478.ts
 #EXTINF:-1 tvg-id="espn-news" tvg-name="ESPN News" group-title="Live",ESPN News
-http://31.43.191.125:8080/live/VIP011311757744250643/8456e0e08c8a/155109.ts
+http://31.43.191.125:8080/live/VIP0113172679126129/51732389530751/155109.ts
 #EXTINF:-1 tvg-id="espn-u" tvg-name="ESPN U" group-title="Live",ESPN U
-http://media2.xyz:8080/live/2052433498/undFh23drbdS/9561.ts
+http://31.43.191.125:8080/live/VIP0113172679126129/51732389530751/155110.ts
 #EXTINF:-1 tvg-id="espn2" tvg-name="ESPN2" group-title="Live",ESPN2
-http://31.43.191.125:8080/live/VIP011311757744250643/8456e0e08c8a/155108.ts
+http://31.43.191.125:8080/live/VIP0113172679126129/51732389530751/155108.ts
 #EXTINF:-1 tvg-id="espn+" tvg-name="ESPN+" group-title="Live",ESPN+
 http://172.110.221.91:8080/live/2052071271A/YQFxXWAvBfxy/131581.ts
 #EXTINF:-1 tvg-id="FanDuelTV.us@SD" tvg-logo="https://i.imgur.com/YPHrFU0.png" group-title="Sports",FanDuel TV (720p)
