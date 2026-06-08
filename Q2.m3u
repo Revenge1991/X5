@@ -11,7 +11,7 @@ http://41.205.93.154/ABC/index.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" group-title="News",ABC News Live 1 (720p)
 https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master_4000.m3u8
 #EXTINF:-1 tvg-id="ABC30F" tvg-name="ABC30F" group-title="Live",ABC30F
-http://172.110.221.91:8080/live/2052071271A/YQFxXWAvBfxy/64437.ts
+http://31.43.191.125:8080/live/VIP011311757744250643/8456e0e08c8a/154528.ts
 #EXTINF:-1 tvg-id="ABC30" tvg-name="ABC30" group-title="Live",ABC30
 http://media2.xyz:8080/live/2052241227/NrzBDaGXk8sz/64437.ts
 #EXTINF:-1 tvg-id="ABC7" tvg-name="ABC7" group-title="Live",ABC7
@@ -70,15 +70,15 @@ https://tvpass.org/live/EEast/hd
 #EXTINF:-1 tvg-id="EntrepreneurTV.us@SD" tvg-logo="https://i.imgur.com/isRfHYZ.png" group-title="Business",Entrepreneur TV [Geo-blocked]
 https://cineverse-entrepreneurtv-entrepreneurtv-1-us.ono.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="espn" tvg-name="ESPN" group-title="Live",ESPN
-http://media2.xyz:8080/live/2052433498/undFh23drbdS/9569.ts
+http://31.43.191.125:8080/live/VIP011311757744250643/8456e0e08c8a/155107.ts
 #EXTINF:-1 tvg-id="espn-deportes" tvg-name="ESPN Deportes" group-title="Live",ESPN Deportes
 http://media2.xyz:8080/live/2052433498/undFh23drbdS/47478.ts
 #EXTINF:-1 tvg-id="espn-news" tvg-name="ESPN News" group-title="Live",ESPN News
-http://media2.xyz:8080/live/2052433498/undFh23drbdS/9563.ts
+http://31.43.191.125:8080/live/VIP011311757744250643/8456e0e08c8a/155109.ts
 #EXTINF:-1 tvg-id="espn-u" tvg-name="ESPN U" group-title="Live",ESPN U
 http://media2.xyz:8080/live/2052433498/undFh23drbdS/9561.ts
 #EXTINF:-1 tvg-id="espn2" tvg-name="ESPN2" group-title="Live",ESPN2
-http://media2.xyz:8080/live/2052433498/undFh23drbdS/9568.ts
+http://31.43.191.125:8080/live/VIP011311757744250643/8456e0e08c8a/155108.ts
 #EXTINF:-1 tvg-id="espn+" tvg-name="ESPN+" group-title="Live",ESPN+
 http://172.110.221.91:8080/live/2052071271A/YQFxXWAvBfxy/131581.ts
 #EXTINF:-1 tvg-id="FanDuelTV.us@SD" tvg-logo="https://i.imgur.com/YPHrFU0.png" group-title="Sports",FanDuel TV (720p)
@@ -278,3 +278,5 @@ http://31.43.191.125:8080/live/chile/123456789/5153.ts
 http://31.43.191.125:8080/live/chile/123456789/5154.ts
 #EXTINF:-1 tvg-id="MXE" tvg-name="MXE" group-title="Live",MXE 
 http://172.110.221.91:8080/live/2052071271A/YQFxXWAvBfxy/120114.ts
+#EXTINF:-1 tvg-id="WC1" tvg-name="WC1" group-title="Live",WC1
+http://zk85.hofcepesp1.top:8080/live/es6401758884447338/bb2e1fcabeb3/76229.ts
