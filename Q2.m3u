@@ -120,15 +120,15 @@ https://tvpass.org/live/HallmarkMoviesMysteriesEast/hd
 #EXTINF:-1 tvg-id="HauntTV.ca@SD" tvg-logo="https://images.pluto.tv/channels/63934c218ef524000757b122/colorLogoPNG.png" group-title="Series",Haunt TV (1080p)
 https://amg01446-blueantmediacan-haunttvaussam-samsungau-vcnai.amagi.tv/playlist/amg01446-blueantmediacan-haunttvaussam-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" group-title="Live",HBO 
-http://media2.xyz:8080/live/2052241227/NrzBDaGXk8sz/98692.ts
+http://172.110.221.91:8080/live/DanielT23/D4P6pSnEmp8X/98692.ts
 #EXTINF:-1 tvg-id="HBO-2" tvg-name="HBO 2" group-title="Live",HBO 2 
-http://media2.xyz:8080/live/2052241227/NrzBDaGXk8sz/98693.ts
+http://172.110.221.91:8080/live/DanielT23/D4P6pSnEmp8X/98693.ts
 #EXTINF:-1 tvg-id="HBO-comedy" tvg-name="HBO Comedy" group-title="Live",HBO Comedy 
-http://media2.xyz:8080/live/2052241227/NrzBDaGXk8sz/98694.ts
+http://172.110.221.91:8080/live/DanielT23/D4P6pSnEmp8X/98694.ts
 #EXTINF:-1 tvg-id="HBO-signature" tvg-name="HBO Signature" group-title="Live",HBO Signature
-http://media2.xyz:8080/live/2052241227/NrzBDaGXk8sz/98696.ts
+http://172.110.221.91:8080/live/DanielT23/D4P6pSnEmp8X/98696.ts
 #EXTINF:-1 tvg-id="HBO-Zone" tvg-name="HBO Zone" group-title="Live",HBO Zone
-http://media2.xyz:8080/live/2052241227/NrzBDaGXk8sz/98697.ts
+http://172.110.221.91:8080/live/DanielT23/D4P6pSnEmp8X/98697.ts
 #EXTINF:-1 tvg-id="IFC.us@East" tvg-logo="https://i.imgur.com/bQdkyF9.png" group-title="Movies",IFC East (720p) [Not 24/7]
 https://tvpass.org/live/IFCEast/hd
 #EXTINF:-1 tvg-id="INWILD.nl@SD" tvg-logo="https://cdn.uc.assets.prezly.com/92770c71-9d6f-400f-8311-38e9cfec52c2/InWild_landscape-green.png" group-title="Documentary",INWILD (1080p)
