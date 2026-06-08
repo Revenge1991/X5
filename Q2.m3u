@@ -38,7 +38,7 @@ http://reflect-ccx.cablecast.tv/live-9/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="CheddarNews.us@SD" tvg-logo="https://i.imgur.com/tuP9GW8.png" group-title="News",Cheddar News (1080p)
 https://wurlcheddar.global.transmit.live/hls/689ceac9301c34d3919676f3/v1/Cheddar/samsung_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="cnbc-usa" tvg-logo="https://en.wikipedia.org/wiki/CNBC#/media/File:CNBC_logo.svg" tvg-name="CNBC USA" group-title="Live",CNBC USA
-http://media2.xyz:8080/live/2052241227/NrzBDaGXk8sz/120016.ts
+http://172.110.221.91:8080/live/2052439240/SE34z6pvh6/120016.ts
 #EXTINF:-1 tvg-id="CNBCX" tvg-logo="https://cdn.mos.cms.futurecdn.net/nf2EcKazcof5TuyxYHA3mF.webp" tvg-name="CNBCX" group-title="Live",CNBCX
 http://172.110.221.91:8080/live/2052071271A/YQFxXWAvBfxy/120016.ts
 #EXTINF:-1 tvg-id="CNBCWorld" tvg-logo="https://cdn.mos.cms.futurecdn.net/nf2EcKazcof5TuyxYHA3mF.webp" tvg-name="CNBC World" group-title="Live",CNBC World
