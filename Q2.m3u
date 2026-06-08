@@ -271,10 +271,10 @@ http://172.110.221.91:8080/live/2052071271A/YQFxXWAvBfxy/134306.ts
 #EXTINF:-1 tvg-id="Batman" tvg-name="Batman" group-title="Series",Batman
 http://172.110.221.91:8080/live/2052071271A/YQFxXWAvBfxy/132824.ts
 #EXTINF:-1 tvg-id="MX1" tvg-name="MX1" group-title="Live",MX1
-http://media2.xyz:8080/live/JHicks248/pd4ctABKjaEx/120111.ts
+http://31.43.191.125:8080/live/chile/123456789/5155.ts
 #EXTINF:-1 tvg-id="MX2" tvg-name="MX2" group-title="Live",MX2 
-http://media2.xyz:8080/live/JHicks248/pd4ctABKjaEx/120112.ts
+http://31.43.191.125:8080/live/chile/123456789/5153.ts
 #EXTINF:-1 tvg-id="MX3" tvg-name="MX3" group-title="Live",MX3 
-http://media2.xyz:8080/live/JHicks248/pd4ctABKjaEx/120113.ts
+http://31.43.191.125:8080/live/chile/123456789/5154.ts
 #EXTINF:-1 tvg-id="MXE" tvg-name="MXE" group-title="Live",MXE 
 http://172.110.221.91:8080/live/2052071271A/YQFxXWAvBfxy/120114.ts
